@@ -1,0 +1,15 @@
+F:\gitRepos\TrialApp\TrialApp\bin\Debug\TrialApp.exe.config
+F:\gitRepos\TrialApp\TrialApp\bin\Debug\TrialApp.exe.manifest
+F:\gitRepos\TrialApp\TrialApp\bin\Debug\TrialApp.application
+F:\gitRepos\TrialApp\TrialApp\bin\Debug\TrialApp.exe
+F:\gitRepos\TrialApp\TrialApp\bin\Debug\TrialApp.pdb
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.csproj.AssemblyReference.cache
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.csproj.SuggestedBindingRedirects.cache
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.Form1.resources
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.Properties.Resources.resources
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.csproj.GenerateResource.cache
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.csproj.CoreCompileInputs.cache
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.exe.manifest
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.application
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.exe
+F:\gitRepos\TrialApp\TrialApp\obj\Debug\TrialApp.pdb
